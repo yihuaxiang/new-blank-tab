@@ -2,9 +2,9 @@
    "chrome_url_overrides": {
       "newtab": "blank.html"
    },
-   "description": "Override the new tab page with a blank one",
+   "description": "修改默认新标签页",
    "manifest_version": 2,
-   "name": "Blank new tab page",
+   "name": "默认标签页",
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "0.2.3",
    "browser_action": {
