@@ -1,2 +1,2 @@
-# new-blank-tab
-new-blank-tab
+# Blank-new-tab-page
+Blank new tab page
